@@ -1,5 +1,5 @@
-/workspace/prova-spring/src/main/java/prova/spring/prova/entity/Corpo.java
-/workspace/prova-spring/src/main/java/prova/spring/prova/repository/CorpoRepository.java
-/workspace/prova-spring/src/main/java/prova/spring/prova/ProvaApplication.java
-/workspace/prova-spring/src/main/java/prova/spring/prova/service/CorpoService.java
-/workspace/prova-spring/src/main/java/prova/spring/prova/controller/CorpoController.java
+/workspace/sub-spring/src/main/java/prova/spring/prova/controller/CorpoController.java
+/workspace/sub-spring/src/main/java/prova/spring/prova/ProvaApplication.java
+/workspace/sub-spring/src/main/java/prova/spring/prova/repository/CorpoRepository.java
+/workspace/sub-spring/src/main/java/prova/spring/prova/service/CorpoService.java
+/workspace/sub-spring/src/main/java/prova/spring/prova/entity/Corpo.java
